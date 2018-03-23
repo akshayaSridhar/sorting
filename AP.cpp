@@ -1,4 +1,4 @@
-/*program to sort an array of size N*/
+/*program to print an arithmetic progression*/
 int main()
 {
 	long int SUM=0,N,A,D;
